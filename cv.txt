@@ -1,0 +1,4 @@
+Ini adalah file CV
+Perusahaan 1 :PT.Jaya Abadi
+Perusahaan 2 :PT.Cemerlang
+Perusahaan 3 :PT.Sumber Murah
